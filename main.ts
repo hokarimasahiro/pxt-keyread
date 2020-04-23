@@ -1,7 +1,7 @@
 /**
  * read key
  */
-//% weight=100 color=#0fbc11 icon=""
+//% weight=100 color=#0fbc11 icon="\u2328"
 namespace keyRead {
     /**
      * read key
